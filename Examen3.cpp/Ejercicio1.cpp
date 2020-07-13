@@ -48,10 +48,5 @@ std::cin.getline (numero, 100);
 
 
 
-
-
-
-
-
  }
  
